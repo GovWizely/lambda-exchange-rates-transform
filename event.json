@@ -1,0 +1,54 @@
+{
+
+    "body-json": { },
+    "params": {
+        "path": { },
+        "querystring": {
+            "date_range": "foo",
+            "api_key": "replace with actual key"
+        },
+        "header": {
+            "Via": "2.0 de390f2a4c2c110d009e8b1fc0fb9346.cloudfront.net (CloudFront)",
+            "Accept-Language": "en-US,en;q=0.5",
+            "CloudFront-Is-Desktop-Viewer": "true",
+            "CloudFront-Is-SmartTV-Viewer": "false",
+            "CloudFront-Is-Mobile-Viewer": "false",
+            "X-Forwarded-For": "208.58.214.96, 54.240.144.7",
+            "CloudFront-Viewer-Country": "US",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "upgrade-insecure-requests": "1",
+            "X-Amzn-Trace-Id": "Root=1-58c2c6a6-36c9e5cf6ef1e93f00950977",
+            "X-Forwarded-Port": "443",
+            "Host": "miqn4zywva.execute-api.us-east-1.amazonaws.com",
+            "X-Forwarded-Proto": "https",
+            "X-Amz-Cf-Id": "BgjRLqyMMZP0MVbL1QahnaDKAAVH5WJz6_IYl-HmGe9_xAqtrQDLNA==",
+            "CloudFront-Is-Tablet-Viewer": "false",
+            "cache-control": "max-age=0",
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0",
+            "CloudFront-Forwarded-Proto": "https",
+            "Accept-Encoding": "gzip, deflate, br"
+        }
+    },
+    "stage-variables": { },
+    "context": {
+        "cognito-authentication-type": "",
+        "http-method": "GET",
+        "account-id": "",
+        "resource-path": "/",
+        "authorizer-principal-id": "",
+        "user-arn": "",
+        "request-id": "88270cd0-05a6-11e7-85cb-61f27e2f12fe",
+        "source-ip": "208.58.214.96",
+        "caller": "",
+        "api-key": "",
+        "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:52.0) Gecko/20100101 Firefox/52.0",
+        "user": "",
+        "cognito-identity-pool-id": "",
+        "api-id": "miqn4zywva",
+        "resource-id": "1hnirg28t6",
+        "stage": "exchange_rates_transform",
+        "cognito-identity-id": "",
+        "cognito-authentication-provider": ""
+    }
+
+}
