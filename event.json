@@ -4,8 +4,9 @@
     "params": {
         "path": { },
         "querystring": {
-            "date_range": "foo",
-            "api_key": "replace with actual key"
+            "start_date": "2016-01-01",
+            "end_date": "2016-04-01",
+            "api_key": "not a real key"
         },
         "header": {
             "Via": "2.0 de390f2a4c2c110d009e8b1fc0fb9346.cloudfront.net (CloudFront)",
